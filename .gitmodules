@@ -1,0 +1,3 @@
+[submodule "bigdata_docker"]
+	path = bigdata_docker
+	url = https://github.com/MuriloRBS/treinamento_bi
